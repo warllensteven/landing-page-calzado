@@ -8,6 +8,21 @@
 * git branch
 * git branch formulario
 * git checkout formulario
+* git status
+* git add .
+* git commit -m
+* git push origin formulario
+* git pull origin desarrollo
+* git status
+* git add .
+* git commit -m
+* git push origin formulario
+* git pull origin desarrollo
+
+# comandos en github
+* pull  request
+* merge request
+
 ### Acciones de Warllen Romero
 
 ### Creacion de repositorio
