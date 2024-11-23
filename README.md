@@ -2,6 +2,29 @@
 
 ** Andres Felipe Portilla Perez **
 
+* git cofig --global --list
+* git config --global user.name andresfp97
+* git config --global user.email 123andresportilla@gmail.com
+* git clone https://github.com/warllensteven/landing-page-calzado.gitt status
+* git branch
+* git branch formulario
+* git checkout formulario
+* git status
+* git add .
+* git commit -m
+* git push origin formulario
+* git pull origin desarrollo
+* git status
+* git add .
+* git commit -m
+* git push origin formulario
+* git pull origin desarrollo
+
+# comandos en github
+* pull  request
+* merge request
+
+
 - git cofig --global --list
 - git config --global user.name andresfp97
 - git config --global user.email 123andresportilla@gmail.com
@@ -9,8 +32,7 @@
 - git branch
 - git branch formulario
 - git checkout formulario
-
-### Acciones de Warllen Romero
+## Acciones de Warllen Romero
 
 ### Creacion de repositorio
 
