@@ -1,3 +1,23 @@
+# Proyecto LANDIN-PAGE-calzado
+
+## Estructura
+
+### Desarrollador (Warllen Romero)
+
+- Pagina de inicio
+
+- 4 tarjetas de modelo de los zapatos con boton de redireccion a formulario
+
+- Responsive
+
+### Desarrollador (Andres Portilla)
+
+- Pagina de Formulario
+
+- Responsive
+
+### INTEGRANTES
+
 # comandos utilizados
 
 ** Andres Felipe Portilla Perez **
